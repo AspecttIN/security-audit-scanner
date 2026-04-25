@@ -4,8 +4,8 @@ A Flask web app that clones any public GitHub repository and scans it for common
 
 ---
 
-![Screenshot placeholder](screenshot.png)
-*← Replace with a screenshot of the app*
+!<img width="1122" height="681" alt="image" src="https://github.com/user-attachments/assets/67433eb1-04a6-439a-9861-d2d0d41e3fbf" />
+
 
 ---
 
